@@ -1,2 +1,2 @@
 # Digital-Design
-Implementation of digital circuits in verilog
+Implementation ofcommon digital circuits in verilog
